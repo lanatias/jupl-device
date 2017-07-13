@@ -1,6 +1,6 @@
 # Jupl Single Device SPA Application
 
-This simple application is proof-of-concept application build with Angular 2 and TypeScript. This app consumes and updates three Jupl device's configuration. It utilises a service object that is injected into the main component.  
+This simple application is proof-of-concept application built with Angular 2 and TypeScript. This app consumes and updates three Jupl device's configurations. It utilises a service object that is injected into the main component.  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
@@ -20,7 +20,7 @@ Install Angular CLI:
 Install packages:
 `npm install`
 
-Install bootstrap and fontawesome modules:
+Install bootstrap and font-awesome modules:
 ```
 npm install bootstrap@next
 npm install font-awesome
